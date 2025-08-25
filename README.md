@@ -10,3 +10,6 @@
 
 ## 🔥 Ngôn ngữ thường dùng
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quy1314&layout=compact&theme=radical)
+
+### 🚀 My Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Quy1314&repo=my-awesome-project&theme=radical)](https://github.com/Quy1314/my-awesome-project)
