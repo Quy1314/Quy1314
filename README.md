@@ -1,3 +1,6 @@
+<!-- Banner -->
+<img src="https://raw.githubusercontent.com/Quy1314/Quy1314/main/assets/banner.png" alt="Banner" width="100%" />
+
 # 👋 Xin chào, mình là Quý
 - 💻 Thích học về lập trình và công nghệ
 - 🚀 Đang khám phá GitHub và xây dựng project cá nhân
