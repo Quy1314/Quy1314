@@ -69,7 +69,8 @@ Hệ thống **blockchain liên ngân hàng** với **bảo mật hậu lượng
 
 ## 🚀 Repository nổi bật
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Quy1314&repo=NT219_Project_Interbank-Blockchain-PQC-ZKP" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quy1314&repo=NT219_Project_Interbank-Blockchain-PQC-ZKP&theme=radical" />
+
 
 
 
