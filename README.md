@@ -7,7 +7,7 @@ Sinh viên An toàn Thông tin • Security
 ---
 
 ## 🏦 Dự án tiêu biểu
-## Quantum-Safe Interbank Blockchain System
+## [Quantum-Safe Interbank Blockchain System](https://github.com/Quy1314/NT219_Project_Interbank-Blockchain-PQC-ZKP)
 
 Hệ thống **blockchain liên ngân hàng** với **bảo mật hậu lượng tử (PQC)** và **Zero-Knowledge Proofs**, hướng đến mô hình consortium thực tế.
 
@@ -66,11 +66,6 @@ Hệ thống **blockchain liên ngân hàng** với **bảo mật hậu lượng
 </p>
 
 ---
-
-## 🚀 Repository nổi bật
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Quy1314&repo=NT219_Project_Interbank-Blockchain-PQC-ZKP&theme=radical" />
-
 
 
 
