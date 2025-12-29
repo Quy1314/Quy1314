@@ -44,32 +44,6 @@ Hệ thống blockchain liên ngân hàng với bảo mật hậu lượng tử 
 - **Backend**: Java (KSM), Rust (ZKP Prover), Node.js
 - **Frontend**: Next.js, TypeScript, React
 - **Infrastructure**: Docker, Docker Compose
-
-### 📚 Tài liệu
-
-- 📖 [RUNBOOK.md](./docs/RUNBOOK.md) - Hướng dẫn triển khai đầy đủ
-- 📄 [Architecture Documentation](./docs/architecture/) - Tài liệu kiến trúc hệ thống
-- 🚀 [Deployment Guides](./docs/deployment/) - Hướng dẫn triển khai từng module
-
-### 🚀 Quick Start
-
-```bash
-# Clone repository
-git clone https://github.com/Quy1314/NT219_Project_Interbank-Blockchain-PQC-ZKP.git
-cd NT219_Project_Interbank-Blockchain-PQC-ZKP
-
-# Xem hướng dẫn chi tiết
-cat docs/RUNBOOK.md
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quy1314&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 🔥 Ngôn ngữ lập trình
@@ -91,13 +65,7 @@ cat docs/RUNBOOK.md
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Quy1314&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Achievements" />
-</p>
-
----
 
 ## ✨ Visitors Count
 
@@ -107,17 +75,7 @@ cat docs/RUNBOOK.md
 
 ---
 
----
 
-## 📊 Project Statistics
-
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/Quy1314/NT219_Project_Interbank-Blockchain-PQC-ZKP?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/count/Quy1314/NT219_Project_Interbank-Blockchain-PQC-ZKP?style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/m/Quy1314/NT219_Project_Interbank-Blockchain-PQC-ZKP?style=for-the-badge" />
-</p>
-
----
 
 
 <p align="center">
