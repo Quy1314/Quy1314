@@ -1,8 +1,6 @@
 <h2 align="center">👋 Xin chào, mình là Quý</h2>
 
-<p align="center">
-  🏗️ Thiết kế hệ thống • 🔐 Triển khai CA & PKI • 🔍 Phân tích & Giải quyết vấn đề  
-</p>
+
 
 ---
 
@@ -69,7 +67,7 @@ cat docs/RUNBOOK.md
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quy1314&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quy1314&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" alt="GitHub Stats" />
 </p>
 
 ---
@@ -87,7 +85,7 @@ cat docs/RUNBOOK.md
 
 <p align="center">
   <a href="https://github.com/Quy1314/NT219_Project_Interbank-Blockchain-PQC-ZKP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quy1314&repo=NT219_Project_Interbank-Blockchain-PQC-ZKP&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Quy1314&repo=NT219_Project_Interbank-Blockchain-PQC-ZKP&theme=radical&hide_border=true&bg_color=0D1117" alt="Project Stats" />
   </a>
 </p>
 
@@ -96,7 +94,7 @@ cat docs/RUNBOOK.md
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Quy1314&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Quy1314&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -121,11 +119,6 @@ cat docs/RUNBOOK.md
 
 ---
 
-## 📄 License
-
-This project is part of academic research and development work.
-
----
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/Quy1314">Quý</a>
