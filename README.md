@@ -1,7 +1,7 @@
 <h2 align="center">👋 Xin chào, mình là Quý</h2>
 
 <p align="center">
-Sinh viên An toàn Thông tin • Security / Blockchain / Cryptography
+Sinh viên An toàn Thông tin • Security
 </p>
 
 ---
